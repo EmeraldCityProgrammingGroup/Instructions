@@ -1,3 +1,7 @@
+Instructions and notes for the Rails installer program by Engine Yard
+
 - If running Windows XP, download a copy of Clip.exe from http://www.petri.co.il/software/clip.zip and place a copy of the program in \Windows\System32
 
-- Download & execute the Rails installer program (Version 1.3) from http://railsinstaller.org. The default settings should work fine. 
+- Download & execute the Rails installer program (Version 1.3) from http://railsinstaller.org. The default settings should work fine.
+
+- It appears that the latest version of Rails 3 is installed by default. 
