@@ -5,6 +5,16 @@ Instructions and notes for the installing Ruby Version Manager on Ubuntu Linux
  
   sudo apt-get install curl build-essential bison openssl libreadline6 libreadline6-dev zlib1g zlib1g-dev libsqlite3-dev sqlite3 libssl-dev libyaml-dev libsqlite3-0 libxml2-dev libxslt-dev autoconf libc6-dev ncurses-dev automake
 
+
+- On OS/X, install XCode version 3.x or 4.x
+
+- On OS/X Snow Leopard, install Homebrew (instructions at https://github.com/mxcl/homebrew/wiki/Installation)
+  Install the following packages:
+
+  $ brew install libxml2
+  $ brew install libxslt
+
+
 -
   bash < <(curl -s https://rvm.beginrescueend.com/install/rvm)
   
